@@ -8,5 +8,4 @@ dependencies:
   - xeus-r
   - r-dplyr
   - r-ggplot2
-  - r-car
   - r-emmeans
